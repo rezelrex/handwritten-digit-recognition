@@ -1,4 +1,3 @@
-```markdown
 # Handwritten Digit Recognition Project
 
 ## 1. Introduction
@@ -103,4 +102,3 @@ While this project is primarily educational, the broader applications of OCR tec
 * MNIST dataset: [https://www.kaggle.com/datasets/hojjatk/mnist-dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
 * OpenCV documentation: [https://docs.opencv.org/4.x/index.html](https://docs.opencv.org/4.x/index.html)
 * Youtube Tutorial: [https://www.youtube.com/watch?v=bte8Er0QhDg](https://www.youtube.com/watch?v=bte8Er0QhDg) *(Note: You might want to replace this with the actual tutorial link if you used one)*
-```
